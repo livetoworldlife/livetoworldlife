@@ -29,11 +29,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/livetoworldlife/project_bluedot_location/pull/1) in [livetoworldlife/project_bluedot_location](https://github.com/livetoworldlife/project_bluedot_location)
-2. 💪 Opened PR [#1](https://github.com/livetoworldlife/project_bluedot_location/pull/1) in [livetoworldlife/project_bluedot_location](https://github.com/livetoworldlife/project_bluedot_location)
-3. 🎉 Merged PR [#3](https://github.com/livetoworldlife/JavaScript_Examples/pull/3) in [livetoworldlife/JavaScript_Examples](https://github.com/livetoworldlife/JavaScript_Examples)
-4. 🗣 Commented on [#96](https://github.com/basir/node-react-ecommerce/issues/96) in [basir/node-react-ecommerce](https://github.com/basir/node-react-ecommerce)
-5. 🗣 Commented on [#36](https://github.com/basir/node-react-ecommerce/issues/36) in [basir/node-react-ecommerce](https://github.com/basir/node-react-ecommerce)
+1. ❌ Closed PR [#2](https://github.com/Junior-Codersnl/1-html-assignment/pull/2) in [Junior-Codersnl/1-html-assignment](https://github.com/Junior-Codersnl/1-html-assignment)
+2. 💪 Opened PR [#2](https://github.com/Junior-Codersnl/1-html-assignment/pull/2) in [Junior-Codersnl/1-html-assignment](https://github.com/Junior-Codersnl/1-html-assignment)
+3. ❌ Closed PR [#1](https://github.com/livetoworldlife/project_bluedot_location/pull/1) in [livetoworldlife/project_bluedot_location](https://github.com/livetoworldlife/project_bluedot_location)
+4. 💪 Opened PR [#1](https://github.com/livetoworldlife/project_bluedot_location/pull/1) in [livetoworldlife/project_bluedot_location](https://github.com/livetoworldlife/project_bluedot_location)
+5. 🎉 Merged PR [#3](https://github.com/livetoworldlife/JavaScript_Examples/pull/3) in [livetoworldlife/JavaScript_Examples](https://github.com/livetoworldlife/JavaScript_Examples)
 <!--END_SECTION:activity-->
 
 
