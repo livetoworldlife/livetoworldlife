@@ -1,6 +1,6 @@
 ## I'm a Husband, Father, Student and Developer!
 
-- 🔭 I’m currently working on [HackYourFuture graduation project](https://github.com/livetoworldlife/project_bluedot_location)!
+- 🔭 I’m currently working on [HackYourFuture WebShop project](https://github.com/livetoworldlife/pg-pro-webshop)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
