@@ -29,11 +29,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/Junior-Codersnl/1-html-assignment/pull/3) in [Junior-Codersnl/1-html-assignment](https://github.com/Junior-Codersnl/1-html-assignment)
-2. 💪 Opened PR [#3](https://github.com/Junior-Codersnl/1-html-assignment/pull/3) in [Junior-Codersnl/1-html-assignment](https://github.com/Junior-Codersnl/1-html-assignment)
-3. ❌ Closed PR [#2](https://github.com/Junior-Codersnl/1-html-assignment/pull/2) in [Junior-Codersnl/1-html-assignment](https://github.com/Junior-Codersnl/1-html-assignment)
-4. 💪 Opened PR [#2](https://github.com/Junior-Codersnl/1-html-assignment/pull/2) in [Junior-Codersnl/1-html-assignment](https://github.com/Junior-Codersnl/1-html-assignment)
-5. ❌ Closed PR [#1](https://github.com/livetoworldlife/project_bluedot_location/pull/1) in [livetoworldlife/project_bluedot_location](https://github.com/livetoworldlife/project_bluedot_location)
+1. 🗣 Commented on [#1](https://github.com/Junior-Codersnl/5-react-konular1-assignment/issues/1) in [Junior-Codersnl/5-react-konular1-assignment](https://github.com/Junior-Codersnl/5-react-konular1-assignment)
+2. ❌ Closed PR [#3](https://github.com/Junior-Codersnl/1-html-assignment/pull/3) in [Junior-Codersnl/1-html-assignment](https://github.com/Junior-Codersnl/1-html-assignment)
+3. 💪 Opened PR [#3](https://github.com/Junior-Codersnl/1-html-assignment/pull/3) in [Junior-Codersnl/1-html-assignment](https://github.com/Junior-Codersnl/1-html-assignment)
+4. ❌ Closed PR [#2](https://github.com/Junior-Codersnl/1-html-assignment/pull/2) in [Junior-Codersnl/1-html-assignment](https://github.com/Junior-Codersnl/1-html-assignment)
+5. 💪 Opened PR [#2](https://github.com/Junior-Codersnl/1-html-assignment/pull/2) in [Junior-Codersnl/1-html-assignment](https://github.com/Junior-Codersnl/1-html-assignment)
 <!--END_SECTION:activity-->
 
 
